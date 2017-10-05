@@ -18,16 +18,18 @@ Use WEB to build my own resume website.
 
 ## To do:
 
-- [x] Build a platform for WEB
+- [x] Install some tools for Bootstrap
 - [x] Prepare a resume
-- [x] Build a new 
-
+- [x] Edit bootstrap's template
+- [x] Three parts of the Website: Cover, Home, Experience, Contact
 
 Trello:
  
 https://trello.com/b/jFuHyHTM/build-your-own-web
 
+Here is the final Website:
 
+https://github.com/XintongHao/XintongHao_RESUME/tree/master/XintongHao_resume
 
 
 
