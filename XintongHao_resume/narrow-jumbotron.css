@@ -2,6 +2,7 @@
 body {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
+
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -15,20 +16,21 @@ body {
 /* Custom page header */
 .header {
   padding-bottom: 1rem;
-  border-bottom: .05rem solid #ccffe6;
+  border-bottom: .05rem solid #c6d9ec;
+
 }
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
   margin-top: 0;
   margin-bottom: 0;
-  color: #ccffe6;
+  color: #c6d9ec;
   line-height: 3rem;
 }
 
 /* Custom page footer */
 .footer {
   padding-top: 1.5rem;
-  color: #777;
+  color: #336699;
   border-top: .05rem solid #e5e5e5;
 }
 
@@ -36,6 +38,7 @@ body {
 @media (min-width: 48em) {
   .container {
     max-width: 46rem;
+    
   }
 }
 .container-narrow > hr {
@@ -45,16 +48,22 @@ body {
 /* Main marketing message and sign up button */
 .jumbotron {
   text-align: center;
-  border-bottom: .05rem solid #e5e5e5;
+  border-bottom: .05rem solid #c6d9ec;
+  color: #c6d9ec;
+
 }
 .jumbotron .btn {
   padding: .75rem 1.5rem;
   font-size: 1.5rem;
+    color: #c6d9ec;
+
 }
 
 /* Supporting marketing content */
 .marketing {
   margin: 3rem 0;
+  color: #336699;
+
 }
 .marketing p + h4 {
   margin-top: 1.5rem;
@@ -76,5 +85,8 @@ body {
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
+    color: #ecf2f9;
+
+
   }
 }
