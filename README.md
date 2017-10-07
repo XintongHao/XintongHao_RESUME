@@ -20,8 +20,14 @@ Use WEB to build my own resume website.
 
 - [x] Install some tools for Bootstrap
 - [x] Prepare a resume
-- [x] Edit bootstrap's template
+- [x]  bootstrap's template
 - [x] Three parts of the Website: Cover, Home, Experience, Contact
+
+Design structure of webpage: Cover, Home, Experience, Contact
+
+
+
+
 
 Trello:
  
