@@ -34,12 +34,10 @@ Use WEB to build my own resume website.
 6. Change the color of the infomation box to blue by adding "class="jumbotron bg-info" " in home, experience and contact html file.
 7. Change the fonts color by replacing the color in narrow-jumbotron.css
 
-Trello:
- 
+## Trello: 
 https://trello.com/b/jFuHyHTM/build-your-own-web
 
-Here is the final Website:
-
+## final Website:
 https://github.com/XintongHao/XintongHao_RESUME/tree/master/XintongHao_resume
 (The whole website should be entered thourgh hxtong_resume_cover.html)
 
@@ -60,8 +58,8 @@ https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/#4
 - [x] Use terminal to deploy the project and get the Hosting URL: https://friendlychat2-87ca4.firebaseapp.com
 - [x] Test the different functions and see how it works.
 
-# firebase project:
+## firebase project:
 https://github.com/XintongHao/XintongHao_RESUME/tree/master/HXT_friendlychat_firebase
 
-# Hosting URL:
+## Hosting URL:
  https://friendlychat2-87ca4.firebaseapp.com
