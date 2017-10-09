@@ -41,6 +41,15 @@ https://trello.com/b/jFuHyHTM/build-your-own-web
 https://github.com/XintongHao/XintongHao_RESUME/tree/master/XintongHao_resume
 (The whole website should be entered thourgh hxtong_resume_cover.html)
 
+# What's more...
+I also create another fancy resume website via Mobirise App on Mac.
+
+It is very easy to create and decorate a website and it looks fancy!!!
+
+## Here is my FANCY RESUME
+https://github.com/XintongHao/XintongHao_RESUME/tree/master/XintongHao_Mobrise_Resume
+
+Thanks for watching! I would appreciate very much if you give any feedback!
 
 
 ## Copyright and license
