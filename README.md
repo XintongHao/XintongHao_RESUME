@@ -44,7 +44,7 @@ https://github.com/XintongHao/XintongHao_RESUME/tree/master/XintongHao_resume
 # What's more...
 I also create another fancy resume website via Mobirise App on Mac.
 
-It is very easy to create and decorate a website and it looks fancy!!!
+It is very easy to create and decorate a website by using Mobirise Appy. And it makes my webpage looks fancy!!!
 
 ## Here is my FANCY RESUME
 https://github.com/XintongHao/XintongHao_RESUME/tree/master/XintongHao_Mobrise_Resume
