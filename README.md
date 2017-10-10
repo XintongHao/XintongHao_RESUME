@@ -40,7 +40,7 @@ https://trello.com/b/jFuHyHTM/build-your-own-web
 ## final Website:
 https://resume-5b6f0.firebaseapp.com/
 
-###GitHub
+### GitHub
 https://github.com/XintongHao/XintongHao_RESUME/tree/master/XintongHao_resume
 
 # What's more...
@@ -51,7 +51,7 @@ It is very easy to create and decorate a website by using Mobirise Appy. And it 
 ## Here is my FANCY RESUME
 https://hxtongresume.firebaseapp.com/
 
-###GitHub
+### GitHub
 https://github.com/XintongHao/XintongHao_RESUME/tree/master/XintongHao_Mobrise_Resume
 
 
