@@ -38,8 +38,10 @@ Use WEB to build my own resume website.
 https://trello.com/b/jFuHyHTM/build-your-own-web
 
 ## final Website:
+https://resume-5b6f0.firebaseapp.com/
+
+###GitHub
 https://github.com/XintongHao/XintongHao_RESUME/tree/master/XintongHao_resume
-(The whole website should be entered thourgh hxtong_resume_cover.html)
 
 # What's more...
 I also create another fancy resume website via Mobirise App on Mac.
@@ -47,7 +49,12 @@ I also create another fancy resume website via Mobirise App on Mac.
 It is very easy to create and decorate a website by using Mobirise Appy. And it makes my webpage looks fancy!!!
 
 ## Here is my FANCY RESUME
+https://hxtongresume.firebaseapp.com/
+
+###GitHub
 https://github.com/XintongHao/XintongHao_RESUME/tree/master/XintongHao_Mobrise_Resume
+
+
 
 Thanks for watching! I would appreciate very much if you give any feedback!
 
