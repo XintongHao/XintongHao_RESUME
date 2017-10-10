@@ -63,7 +63,7 @@ Code and documentation copyright 2011-2017 the [Bootstrap Authors](https://githu
 https://codelabs.developers.google.com/codelabs/firebase-web/#0 
 - [x] Edit the index.html: change the theme color from blue to green.
 - [x] Follow the tutorial to add functions of the web chat.
-https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/#4
+https://codelabs.developers.google.com/codelabs/firebase-cloud-functions
 - [x] Use terminal to deploy the project and get the Hosting URL: https://friendlychat2-87ca4.firebaseapp.com
 - [x] Test the different functions and see how it works.
 
